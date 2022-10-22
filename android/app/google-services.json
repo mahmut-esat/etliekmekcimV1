@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482954407524",
+    "project_id": "etliekmekcim-3a12e",
+    "storage_bucket": "etliekmekcim-3a12e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482954407524:android:014926158e331d30633971",
+        "android_client_info": {
+          "package_name": "com.etliekmekcimv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482954407524-br90gmu8hnfne07hd5qfi8bu6iod2e7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU8k-IueuII4J7bEJVyUfWN2EM7G20dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482954407524-br90gmu8hnfne07hd5qfi8bu6iod2e7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
