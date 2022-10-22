@@ -14,7 +14,7 @@ export default function ProductCard({item}) {
   return (
     <TouchableOpacity
       style={styles.container}
-      activeOpacity={0.9}
+      activeOpacity={0.7}
       onPress={() => handleProductSelect(item)}>
       <Image source={{uri: item.image}} style={styles.Image} />
       <View style={styles.title_container}>
