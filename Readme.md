@@ -14,25 +14,25 @@
 
 ![](src/assets/screens/etliekmekcim.gif)
 
-### HomePage
+## HomePage
 
 ![](src/assets//screens/HomePage.jpg)
 
-### Register and Login Page
+## Register and Login Page
 
 ![](src/assets//screens/UserPage.jpg)
 ![](src/assets//screens/LoginPage.jpg)
 ![](src/assets//screens/RegisterPage.jpg)
 
-### Cart Page
+## Cart Page
 
 ![](src/assets//screens/CartPage-Empity.jpg)
 ![](src/assets//screens/CartPage.jpg)
 
-### About Page
+## About Page
 
 ![](src/assets//screens/AboutPage.jpg)
 
-### Order Page
+## Order Page
 
 ![](src/assets//screens/OrderPage.jpg)
